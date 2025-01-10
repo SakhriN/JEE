@@ -1,4 +1,4 @@
-package org.example.exoservlet;
+package org.example.exoservlet.quizzes;
 
 public class Quiz {
     private int number;
